@@ -132,7 +132,7 @@ function App() {
         }}
       >
         <p>
-          {days}d {hours}h {minutes}m {seconds}s
+          {daysLeft}d {hours}h {minutes}m {seconds}s
         </p>
       </div>
 
